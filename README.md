@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/carjavi/face-robot2/master/img/face-robot2.png" height="200" alt=" " /></p>
+
 <h1 align="center">Face Robot 2</h1> 
 <h4 align="right">apr 23</h4>
 
@@ -7,7 +7,7 @@
 
 
 # Summary
-Son 7 animación que animan emojis en una website y cada animacion esta compuesto por 3 videos.
+Son 24 animaciones que expresan emociones en una website. Agrupados en 7 emojis de 3 videos cada uno.
 
 ## Comandos
 ```2 digitos``` - ej(16) 1er digito el emoji, 2do digito el tiempo en que va a permanecer el emoji stantad sin parpadear.
