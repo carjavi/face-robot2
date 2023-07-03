@@ -1,0 +1,10 @@
+.parameter video {
+    width: 585px;
+    height: 380px;
+    margin: 0;
+    padding: 0;
+    justify-content:center;
+    background-color: #080000;
+}
+
+

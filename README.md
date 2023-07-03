@@ -19,8 +19,36 @@ abrir carperta desde VS  y activar live server
 
 > :memo: **Note:**
 - Los Videos 0(x) son para el parpadeo
-- Resolución de prueba 660x660 pixeles
+- Resolución de prueba 600x400 pixeles
 
+<br>
+
+## Testing en una RPI:
+Copiar el repositorio en una carpeta GUI-face, manteniendo esta estructura:
+```
+  /GUI-face
+      /server.js
+      /build
+         /index.html
+         /emoji
+         /js
+         /css
+         /media
+```
+Instalar NodeJs & NPM: https://github.com/carjavi/install-nodejs-ARM
+
+Instalar los siguiente librerias:
+```
+npm i express
+npm i http
+```
+correr el server:
+```
+node server.js
+```
+en el Browser `ip:8080` podremos observar nuestra `face-robot2`
+
+<br>
 
 ---
 Copyright &copy; 2022 [carjavi](https://github.com/carjavi). <br>
