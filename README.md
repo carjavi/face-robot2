@@ -1,10 +1,11 @@
-
+<p align="center"><img src="./img/face-robot2.png" height="150" alt=" " /></p>
 <h1 align="center">Face Robot 2</h1> 
 <h4 align="right">apr 23</h4>
 
 <img src="https://img.shields.io/badge/OS-Windows%2011-blue">
 <img src="https://img.shields.io/badge/OS-Linux%20GNU-yellowgreen">
 
+<br>
 
 # Summary
 Son 24 animaciones que expresan emociones en una website. Agrupados en 7 emojis de 3 videos cada uno.
